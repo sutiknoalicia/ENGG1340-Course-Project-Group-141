@@ -52,14 +52,16 @@ Risk is an RNG-based conquest game, played by 3-5 players. In Risk, players play
 - Risk cards: implemented by using a random number generator to randomly generate 44 RISK cards, inclusive of the 2 wild cards (range: 0-43)
 
 (2) Data structures for storing game status
-- Instead of making use of vectors (dynamic-size arrays), we can use static-size arrays as the maximum number of players/countries is known
-- Will mostly be using arrays to store the current game statues. Below lists the arrays that we plan to implement (may be subject to changes):
+- We can use static-sized array to store the data below as the array sizes are known
+- Below lists the arrays that we plan to implement (may be subject to changes):
     - Array to store all uninvaded & invaded countries
     - Array for each player to store the countries they invaded
-    - Array to store the type & number of RISK cards each player has
-    - Array to store the number of troops each player has (and perhaps how many of each troop are in each invaded territory)
 
 (3) Dynamic memory management
+- As each turn will involve frequent deletion and insertion for the certain data, vectors, which are dynamic-size array will be used for the following (may be subject to change):
+    - Vectors for each player to store the countries they invaded
+    - Vectors to store the number of troops each player has and how many of each troop are in each invaded territory (every index represents a different invaded territory)
+    - Vectors to store the type & number of RISK cards each player has
 
 (4) File input/output (e.g., for loading/saving game status)
   - The game will be saved after every player has gone through a turn
@@ -70,6 +72,7 @@ Risk is an RNG-based conquest game, played by 3-5 players. In Risk, players play
 (5) Program codes in multiple files
   - Suggested modules/functions that will be created in separate files (may be subject to changes):
       - Elimination (Checking if the player has any territories left)
+      - Type of card (as in the program, they will be represented by numbers, a function is needed to determine exactly what type of the card that the player has)
       - Determining the winner
       - Outputting the game board
       - Attacking
