@@ -35,6 +35,7 @@ Risk is an RNG-based conquest game, played by 3-5 players. In Risk, players play
 - The attacker and defender will roll a number of die equal to the number of troops they chose to attack/defend with
   - Once both have rolled their die, each side will choose their highest dice rolls and compare them with each other
   - The number of die rolls to be compared depends on the side with the lesser number of die (ex. Attacker rolls 3 die, defender rolls 2, so the 2 highest dice are         compared)
+  - If both players come to a tie, the defender always wins
 - After a successful attack, players can choose to attack more territories until they either lose an attack, or choose to end their turn
 - Once their turn ends, players can choose to move their troops to adjacent/sea line connected territories, so long as each occupied territory has at least 1 troop
 - Finally, that player’s turn ends, and the next player plays
