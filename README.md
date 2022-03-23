@@ -1,4 +1,4 @@
-# ENGG1340-Course-Project-Semester-2(2021-2022)
+# ENGG1340 Course Project Semester 2 (2021-2022)
 ## Group 141
 
 ### Team members:
