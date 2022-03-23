@@ -50,18 +50,22 @@ Risk is an RNG-based conquest game, played by 3-5 players. In Risk, players play
 (1) Generation of random game sets or events
 - Dice rolls: implemented by using a random number generator, which will generate numbers from 1 to 6, inclusive
 - Risk cards: implemented by using a random number generator to randomly generate 44 RISK cards, inclusive of the 2 wild cards (range: 0-43)
+
 (2) Data structures for storing game status
 - Will mostly be using arrays to store the current game statues. Below lists the arrays that we plan to implement (may be subject to changes):
     - Array to store all uninvaded & invaded countries
     - Array for each player to store the countries they invaded
     - Array to store the type & number of RISK cards each player has
     - Array to store the number of troops each player has (and perhaps how many of each troop are in each invaded territory)
+
 (3) Dynamic memory management
+
 (4) File input/output (e.g., for loading/saving game status)
   - The game will be saved after every player has gone through a turn
   - At the start, the player will be able to choose a new game or load an old game
   - For a new game: A new .txt file will be created
   - For a saved game: As the game progresses, the game status will be updated
+
 (5) Program codes in multiple files
   - Suggested modules/functions that will be created in separate files (may be subject to changes):
       - Elimination (Checking if the player has any territories left)
