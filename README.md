@@ -20,7 +20,7 @@ Risk is an RNG-based conquest game, played by 3-5 players. In Risk, players play
   - The troops need not be evenly distributed.
 - Finally, the Risk cards are shuffled, and the game begins proper
 - There are 44 Risk cards total: 42 corresponding to each territory, and 2 wild cards
-  - Each card has one of 3 symbols, in ascending order of power, they are: infantry, cavalry, and infantry
+  - Each card has one of 3 symbols, in ascending order of power, they are: infantry, cavalry, and artillery
 
 ### Gameplay:
 - At the start of each turn, players obtain extra troops equal to the number of territories they own divided by 3, ignoring remainders. If the player occupies all       territories in a certain region, they get extra troops depending on the power of the region
