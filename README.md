@@ -64,7 +64,7 @@ Risk is an RNG-based conquest game, played by 3-5 players. In Risk, players play
   - The game will be saved after every player has gone through a turn
   - At the start, the player will be able to choose a new game or load an old game
   - For a new game: A new .txt file will be created
-  - For a saved game: As the game progresses, the game status will be updated
+  - For a saved game: As the game progresses, the game status will be updated (Files will most likely consist of the following data for each player: type & no. of RISK cards; no. of troops; invaded countries)
 
 (5) Program codes in multiple files
   - Suggested modules/functions that will be created in separate files (may be subject to changes):
