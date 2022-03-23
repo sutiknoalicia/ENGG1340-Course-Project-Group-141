@@ -27,7 +27,7 @@ Risk is an RNG-based conquest game, played by 3-5 players. In Risk, players play
   - They can place these troops in any territory
 - If a player has a combination of 3 Risk cards of the same symbol, a combination of 3 Risk cards of 3 unique symbols, or a combination of 2 Risk cards of different     symbols + 1 wild card, they can play the combination to obtain extra troops at the start of the turn
   - At first, players who turn in a set of cards get 4 troops, then each subsequent turn-in adds +2 troops (4 -> 6 -> 8 …)
-  - This pattern repeats until the 6th turn-in, which adds +3 from the 5th (12 -> 5)
+  - This pattern repeats until the 6th turn-in, which adds +3 from the 5th (12 -> 15)
   - Afterwards, starting from the 6th turn-in, each subsequent turn-add adds +5 troops (15 -> 20 -> 25 …)
 - If a player has 5 cards in their deck, they need to make a turn-in
 - Afterwards, players can attack any territory adjacent to one that they own, or connected to one they own via sea line
