@@ -37,9 +37,35 @@ Risk is an RNG-based conquest game, played by 3-5 players. In Risk, players play
   - The number of die rolls to be compared depends on the side with the lesser number of die (ex. Attacker rolls 3 die, defender rolls 2, so the 2 highest dice are         compared)
   - If both players come to a tie, the defender always wins
 - After a successful attack, players can choose to attack more territories until they either lose an attack, or choose to end their turn
-- Once their turn ends, players can choose to move their troops to adjacent/sea line connected territories, so long as each occupied territory has at least 1 troop
+- Once their turn ends, players can choose to move their troops to adjacent/sea line connected territories, so long as each occupied territory has at least 1 troop (also known as, fortifying your position)
 - Finally, that player’s turn ends, and the next player plays
 - If a player loses all their troops, they are knocked out of the game
   - Whichever player eliminates them will obtain all their Risk cards
 - This repeats until 1 player conquers all territories and wins
 
+### Game’s features and the coding requirements:
+- If possible, a visual portrayal of the world’s political map will be shown. However, if not, only lists containing necessary game information will be output.
+- Depending on whether or not the academy server supports output of ANSI colour codes, the troops for each player will be represented by either symbols or letters.
+
+(1) Generation of random game sets or events
+- Dice rolls: implemented by using a random number generator, which will generate numbers from 1 to 6, inclusive
+- Risk cards: implemented by using a random number generator to randomly generate 44 RISK cards, inclusive of the 2 wild cards (range: 0-43)
+(2) Data structures for storing game status
+- Will mostly be using arrays to store the current game statues. Below lists the arrays that we plan to implement (may be subject to changes):
+    - Array to store all uninvaded & invaded countries
+    - Array for each player to store the countries they invaded
+    - Array to store the type & number of RISK cards each player has
+    - Array to store the number of troops each player has (and perhaps how many of each troop are in each invaded territory)
+(3) Dynamic memory management
+(4) File input/output (e.g., for loading/saving game status)
+  - The game will be saved after every player has gone through a turn
+  - At the start, the player will be able to choose a new game or load an old game
+  - For a new game: A new .txt file will be created
+  - For a saved game: As the game progresses, the game status will be updated
+(5) Program codes in multiple files
+  - Suggested modules/functions that will be created in separate files (may be subject to changes):
+      - Elimination (Checking if the player has any territories left)
+      - Determining the winner
+      - Outputting the game board
+      - Attacking
+      - Determining if a player has chosen to fortify their position
