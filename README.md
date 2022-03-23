@@ -52,6 +52,7 @@ Risk is an RNG-based conquest game, played by 3-5 players. In Risk, players play
 - Risk cards: implemented by using a random number generator to randomly generate 44 RISK cards, inclusive of the 2 wild cards (range: 0-43)
 
 (2) Data structures for storing game status
+- Instead of making use of vectors (dynamic-size arrays), we can use static-size arrays as the maximum number of players/countries is known
 - Will mostly be using arrays to store the current game statues. Below lists the arrays that we plan to implement (may be subject to changes):
     - Array to store all uninvaded & invaded countries
     - Array for each player to store the countries they invaded
