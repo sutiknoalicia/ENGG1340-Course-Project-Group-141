@@ -73,3 +73,4 @@ Risk is an RNG-based conquest game, played by 3-5 players. In Risk, players play
       - Outputting the game board
       - Attacking
       - Determining if a player has chosen to fortify their position
+      - Loading/Saving the game
