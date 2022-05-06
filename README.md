@@ -4,6 +4,7 @@
 
 ## Team Members:
 Sutikno Alicia (3035946136)
+
 Hardiwijaya Theodore Bryan (3035946734)
 
 ## Chosen text-based game:
@@ -18,9 +19,13 @@ The boss will always be positioned on the top center of the board, and the enemy
 After the boss is defeated, a new board will be printed.
 
 (1) Player Base Stats:
+
 HP: 25
+
 Attack: 20
+
 Defense: 15
+
 Gold: 0
 
 (2) Enemy Base Stats:
