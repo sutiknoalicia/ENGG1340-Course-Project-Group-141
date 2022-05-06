@@ -14,9 +14,10 @@ Ancient Loop (Self-made RPG game)
 Ancient Loop is a classic role-playing game, where the player goes on an adventure to defeat the 3 bosses and protect the kingdom from danger. In Ancient Loop, the player will go into battle with different enemies, such as slimes, goblins, evil horses, skeletons and mages, and be rewarded with gold. By earning gold, the player will be able to purchase items from the shop, which will help the player in defeating the bosses.
 
 ## Set-up:
-The player will play on a 5x5 board. The game starts out with 1 boss and 1 enemy on the board. 
-The boss will always be positioned on the top center of the board, and the enemy’s position will be randomized in every run of the game.
-After the boss is defeated, a new board will be printed.
+- The player will play on a 5x5 board. 
+- The game starts out with 1 boss and 1 enemy on the board. 
+- The boss will always be positioned on the top center of the board, and the enemy’s position will be randomized in every run of the game.
+- After the boss is defeated, a new board will be printed.
 
 (1) Player Base Stats:
 
@@ -29,24 +30,33 @@ Defense: 15
 Gold: 0
 
 (2) Enemy Base Stats:
+
 HP: 20
 - HP for every subsequent board will increase by 10
+
 Attack: 15
 - Attack for every subsequent board will increase by 10
+
 Defense: 8
 - Defense for every subsequent board will increase by 10
+
 Gold dropped: 10
 - Gold dropped for every subsequent board will increase by 10
  
 (3) Boss Base Stats:
+
 HP: 40
 - HP for every subsequent boss will increase by 20
+
 Attack: 20
 - Attack for every subsequent boss will increase by 10
+
 Defense: 15
 - Defense for every subsequent boss will increase by 10
+
 Special Attack: 5
 - Special Attack for every subsequent boss will increase by 5
+
 Gold dropped: 100
 - Gold dropped for every subsequent boss will increase by 100
 
@@ -75,38 +85,42 @@ Gold dropped: 100
 - 
 ## Game Instructions/ Rules:
 (1) Press W, A, S, or D to move up, left, down or right 
+
+
 (2) The player can enter P or O to enter the Pause menu or Shop menu on every turn
+
 (3) Move towards an enemy, boss or chest to interact with them
+
 (4) For every game event, a prompt will be shown on the screen to help the player input correctly. Please follow the prompts.
 
 ## Game Assumptions:
 - The player will always input data that is of the correct data type
 
 ## Implemented Game Features and the Coding Requirements:
-(1) Generation of random game sets or events
+### (1) Generation of random game sets or events
 - Generation of enemies: Every time a new board is printed, there is a random chance of whether or not an enemy will appear in that board
   - The type of enemy which will appear is also random
 - Shop items: For every 5 steps/moves the player makes, the random item in the shop will be a stronger version of any of the 3 item types. The 4 other items in the shop are constant.
 - Chests in the overworld: The generation of a chest is random, and its contents are also randomized. A chest can contain gold or any of the 3 items: weapons, potions, armors and charms
 - Critical hits done towards enemies and bosses
 
-(2) Data structures for storing game status
+### (2) Data structures for storing game status
 - Structures are used to store data about the player, enemies and the items
 - Vector is used to represent the player’s inventory
 - Arrays are used to store information about the map, boss names, enemy/boss symbols and position of the boss
 - String is used as return value in function acceptplayerinput as a way to return 2 integers
 
-(3) Dynamic memory management
+### (3) Dynamic memory management
 - We used vectors to represent the player’s inventory as there is no fixed amount of items that a player can store in their inventory. This will be limited by the amount of gold a player has.
 
-(4) File input/output (e.g., for loading/saving game status)
+### (4) File input/output (e.g., for loading/saving game status)
 - There are text files (.txt) taken as input, which will output ASCII art
 - There will be a save option for the player in the pause menu. If the player chooses to exit the game, the game will be saved automatically.
   - Inside the save file (save.txt): player stats, player inventory, and current playing board
 - At the start menu, the player will be able to choose if they want to load an old game, or start a new game.
   - If the player tries to load a game, but there is no save file, a new game will start
 
-(5) Program codes in multiple files
+### (5) Program codes in multiple files
 - mainStruct.cpp & mainStruct.h: contains structures for the player, enemy and items, and a vector of items to represent the inventory
 - battle.cpp & battle.h: program run during battle
 - board.cpp & board.h: program used for board initialisation, board printing, checking for valid moves, starting an event (battle/chest), chest & enemy spawning, determining enemy moves, accepting player input & changing the board every move
