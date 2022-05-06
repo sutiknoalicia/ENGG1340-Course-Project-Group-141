@@ -20,45 +20,32 @@ Ancient Loop is a classic role-playing game, where the player goes on an adventu
 - After the boss is defeated, a new board will be printed.
 
 (1) Player Base Stats:
-
-HP: 25
-
-Attack: 20
-
-Defense: 15
-
-Gold: 0
+- HP: 25
+- Attack: 20
+- Defense: 15
+- Gold: 0
 
 (2) Enemy Base Stats:
-
-HP: 20
-- HP for every subsequent board will increase by 10
-
-Attack: 15
-- Attack for every subsequent board will increase by 10
-
-Defense: 8
-- Defense for every subsequent board will increase by 10
-
-Gold dropped: 10
-- Gold dropped for every subsequent board will increase by 10
+- HP: 20
+  - HP for every subsequent board will increase by 10
+- Attack: 15
+  - Attack for every subsequent board will increase by 10
+- Defense: 8
+  - Defense for every subsequent board will increase by 10
+- Gold dropped: 10
+  - Gold dropped for every subsequent board will increase by 10
  
 (3) Boss Base Stats:
-
-HP: 40
-- HP for every subsequent boss will increase by 20
-
-Attack: 20
-- Attack for every subsequent boss will increase by 10
-
-Defense: 15
-- Defense for every subsequent boss will increase by 10
-
-Special Attack: 5
-- Special Attack for every subsequent boss will increase by 5
-
-Gold dropped: 100
-- Gold dropped for every subsequent boss will increase by 100
+- HP: 40
+  - HP for every subsequent boss will increase by 20
+- Attack: 20
+  - Attack for every subsequent boss will increase by 10
+- Defense: 15
+  - Defense for every subsequent boss will increase by 10
+- Special Attack: 5
+  - Special Attack for every subsequent boss will increase by 5
+- Gold dropped: 100
+  - Gold dropped for every subsequent boss will increase by 100
 
 ## Gameplay:
 - The player will then be able to move Upwards (W), Leftwards (A), Downwards (S), and Rightwards (D).
