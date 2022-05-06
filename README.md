@@ -1,80 +1,119 @@
-# ENGG1340 Course Project Semester 2 (2021-2022)
-## Group 141
+#ENGG1340 Group Project
 
-### Team members:
+##Group No.: 141
+
+##Team Members:
 Sutikno Alicia (3035946136)
-
 Hardiwijaya Theodore Bryan (3035946734)
 
-### Chosen text-based game:
-Risk
-
-### Description of the game:
-Risk is an RNG-based conquest game, played by 3-5 players. In Risk, players play on a board depicting a world map separated into 42 different territories, each with their own offensive and defensive advantages. The players can also earn Risk cards to further strengthen their army. It is up to the players to strategically place their color-coded army men to strengthen their offenses and defenses. In order to win Risk, an army must successfully invade all other armies and claim the whole map as theirs and theirs alone, with the added personal touch of being able to form unofficial, often temporary, alliances with other players. However, as per the game’s name, every conflict in Risk is resolved via dice roll, even the toughest defenses can be broken by a lucky roll, and the strongest offenses can be disrupted by a weak dice roll. In Risk, luck is a skill, and playing around said skill is crucial for players to etch out a decisive victory.
-
-### Set-up:
-- Players start out by all rolling a dice to decide the turn order, with the person rolling the highest number starting first, the second highest roll going second,     and so on
-  - This turn order is consistent for the rest of the game
-- Players then take turns to place 1 of their troops on an unoccupied territory
-- Then, players add troops to their occupied territories, until all their troops have been deployed
-  - The troops need not be evenly distributed.
-- Finally, the Risk cards are shuffled, and the game begins proper
-- There are 44 Risk cards total: 42 corresponding to each territory, and 2 wild cards
-  - Each card has one of 3 symbols, in ascending order of power, they are: infantry, cavalry, and artillery
-
-### Gameplay:
-- At the start of each turn, players obtain extra troops equal to the number of territories they own divided by 3, ignoring remainders. If the player occupies all       territories in a certain region, they get extra troops depending on the power of the region
-  - They can place these troops in any territory
-- If a player has a combination of 3 Risk cards of the same symbol, a combination of 3 Risk cards of 3 unique symbols, or a combination of 2 Risk cards of different     symbols + 1 wild card, they can play the combination to obtain extra troops at the start of the turn
-  - At first, players who turn in a set of cards get 4 troops, then each subsequent turn-in adds +2 troops (4 -> 6 -> 8 …)
-  - This pattern repeats until the 6th turn-in, which adds +3 from the 5th (12 -> 15)
-  - Afterwards, starting from the 6th turn-in, each subsequent turn-add adds +5 troops (15 -> 20 -> 25 …)
-- If a player has 5 cards in their deck, they need to make a turn-in
-- Afterwards, players can attack any territory adjacent to one that they own, or connected to one they own via sea line
-- Both the attacker and the defender will choose any amount of troops to attack and defend with, so long as the number is not more than how many troops they currently   have in the territories being played. This initiates the battle phase
-- The attacker and defender will roll a number of die equal to the number of troops they chose to attack/defend with
-  - Once both have rolled their die, each side will choose their highest dice rolls and compare them with each other
-  - The number of die rolls to be compared depends on the side with the lesser number of die (ex. Attacker rolls 3 die, defender rolls 2, so the 2 highest dice are         compared)
-  - If both players come to a tie, the defender always wins
-- After a successful attack, players can choose to attack more territories until they choose to end their turn
-- Once their turn ends, players can choose to move their troops to adjacent/sea line connected territories, so long as each occupied territory has at least 1 troop (also known as, fortifying your position)
-- Finally, that player’s turn ends, and the next player plays
-- If a player loses all their troops, they are knocked out of the game
-  - Whichever player eliminates them will obtain all their Risk cards
-- This repeats until 1 player conquers all territories and wins
-
-### Game’s features and the coding requirements:
-- If possible, a visual portrayal of the world’s political map will be shown. However, if not, only lists containing necessary game information will be output.
-- Depending on whether or not the academy server supports output of ANSI colour codes, the troops for each player will be represented by either symbols or letters.
-
+##Chosen text-based game:
+Ancient Loop (Self-made RPG game)
+Description of the game:
+Ancient Loop is a classic role-playing game, where the player goes on an adventure to defeat the 3 bosses and protect the kingdom from danger. In Ancient Loop, the player will go into battle with different enemies, such as slimes, goblins, evil horses, skeletons and mages, and be rewarded with gold. By earning gold, the player will be able to purchase items from the shop, which will help the player in defeating the bosses.
+Set-up:
+The player will play on a 5x5 board. The game starts out with 1 boss and 1 enemy on the board. 
+The boss will always be positioned on the top center of the board, and the enemy’s position will be randomized in every run of the game.
+After the boss is defeated, a new board will be printed.
+Player Base Stats:
+HP: 25
+Attack: 20
+Defense: 15
+Gold: 0
+Enemy Base Stats:
+HP: 20
+HP for every subsequent board will increase by 10
+Attack: 15
+Attack for every subsequent board will increase by 10
+Defense: 8
+Defense for every subsequent board will increase by 10
+Gold dropped: 10
+Gold dropped for every subsequent board will increase by 10
+Boss Base Stats:
+HP: 40
+HP for every subsequent boss will increase by 20
+Attack: 20
+Attack for every subsequent boss will increase by 10
+Defense: 15
+Defense for every subsequent boss will increase by 10
+Special Attack: 5
+Special Attack for every subsequent boss will increase by 5
+Gold dropped: 100
+Gold dropped for every subsequent boss will increase by 100
+Gameplay:
+The player will then be able to move Upwards (W), Leftwards (A), Downwards (S), and Rightwards (D).
+Every turn, chests will have a 10% chance of spawning, and enemies will have a 30% chance of spawning.
+Chests:
+If the player opens a chest, the player will be able to receive gold or any of the 3 items, with varying stats.
+Shop:
+There will be a shop, which has 4 standard items (never changes) and 1 special item, which will change every 5 turns. The player will be able to purchase items using gold, which is earned by opening chests or defeating enemies.
+Enemies & Bosses:
+Enemies can spawn in any empty space on the board, but there can only be only 1 boss at a time.
+Every 3 turns, one of the enemies on the board will be able to make a move. 
+Valid move: The new position is empty or the new position of the enemy is the new position of the player.
+If the enemy moves into a position occupied by a chest, another enemy or the boss, the move will be invalid, and the enemy will make no moves for that turn.
+If the enemy moves into the new position of the player, the battle scene is commenced, and the enemy will make the first move.
+Every 5 turns, the boss on the board will be able to make a move.
+Valid move: The new position is empty or the new position of the boss is the new position of the player.
+If the boss moves into a position occupied by a chest or an enemy, the move will be invalid, and the boss will make no moves for that turn.
+If the boss moves into the new position of the player, the battle scene is commenced, and the boss will make the first move.
+If the player comes into contact with an enemy or a boss, the player will be able to make the first move.
+Upon defeat, bosses will drop gold, which may be used to purchase items from the shop.
+If the player dies during any battle, the game will end, and the player will have to restart from the beginning.
+If a boss is successfully defeated, a new board will be generated, and a more powerful boss will be on the board.
+After defeating a total of 3 bosses, the player wins the game, and the game ends.
+Game Instructions/ Rules:
+Press W, A, S, or D to move up, left, down or right 
+The player can enter P or O to enter the Pause menu or Shop menu on every turn
+Move towards an enemy, boss or chest to interact with them
+For every game event, a prompt will be shown on the screen to help the player input correctly. Please follow the prompts.
+Game Assumptions:
+The player will always input data that is of the correct data type
+Implemented Game Features and the Coding Requirements:
 (1) Generation of random game sets or events
-- Dice rolls: implemented by using a random number generator, which will generate numbers from 1 to 6, inclusive
-- Risk cards: implemented by using a random number generator to randomly generate 44 RISK cards, inclusive of the 2 wild cards (range: 0-43)
-
+Generation of enemies: Every time a new board is printed, there is a random chance of whether or not an enemy will appear in that board
+The type of enemy which will appear is also random
+Shop items: For every 5 steps/moves the player makes, the random item in the shop will be a stronger version of any of the 3 item types. The 4 other items in the shop are constant.
+Chests in the overworld: The generation of a chest is random, and its contents are also randomized. A chest can contain gold or any of the 3 items: weapons, potions, armors and charms
+Critical hits done towards enemies and bosses
 (2) Data structures for storing game status
-- We can use static-sized array to store the data below as the array sizes are known
-- Below lists the arrays that we plan to implement (may be subject to changes):
-    - Array to store all uninvaded & invaded countries
-    - Array for each player to store the countries they invaded
-
+Structures are used to store data about the player, enemies and the items
+Vector is used to represent the player’s inventory
+Arrays are used to store information about the map, boss names, enemy/boss symbols and position of the boss
+String is used as return value in function acceptplayerinput as a way to return 2 integers
 (3) Dynamic memory management
-- As each turn will involve frequent deletion and insertion for the certain data, vectors, which are dynamic-size array will be used for the following (may be subject to change):
-    - Vectors for each player to store the countries they invaded
-    - Vectors to store the number of troops each player has and how many of each troop are in each invaded territory (every index represents a different invaded territory)
-    - Vectors to store the type & number of RISK cards each player has
-
+We will use vectors to represent the player’s inventory as there is no fixed amount of items that a player can store in their inventory. This will be limited by the amount of gold a player has.
 (4) File input/output (e.g., for loading/saving game status)
-  - The game will be saved after every player has gone through a turn
-  - At the start, the player will be able to choose a new game or load an old game
-  - For a new game: A new .txt file will be created
-  - For a saved game: As the game progresses, the game status will be updated (Files will most likely consist of the following data for each player: type & no. of RISK cards; no. of troops; invaded countries)
-
+There are text files (.txt) taken as input, which will output ASCII art
+There will be a save option for the player in the pause menu. If the player chooses to exit the game, the game will be saved automatically.
+Inside the save file (save.txt): player stats, player inventory, and current playing board
+At the start menu, the player will be able to choose if they want to load an old game, or start a new game.
+If the player tries to load a game, but there is no save file, a new game will start
 (5) Program codes in multiple files
-  - Suggested modules/functions that will be created in separate files (may be subject to changes):
-      - Elimination (Checking if the player has any territories left)
-      - Type of card (as in the program, they will be represented by numbers, a function is needed to determine exactly what type of the card that the player has)
-      - Determining the winner
-      - Outputting the game board
-      - Attacking
-      - Determining if a player has chosen to fortify their position
-      - Loading/Saving the game
+mainStruct.cpp & mainStruct.h: contains structures for the player, enemy and items, and a vector of items to represent the inventory
+battle.cpp & battle.h: program run during battle
+board.cpp & board.h: program used for board initialisation, board printing, checking for valid moves, starting an event (battle/chest), chest & enemy spawning, determining enemy moves, accepting player input & changing the board every move
+menu.cpp & menu.h: contains start, pause, battle, inventory and end menus which will be displayed on the correct occasion
+shop.cpp & shop.h: displays the shop menu, and allows the player to purchase items; will also deduct the player’s funds and store the items in the player’s inventory upon purchase
+saveload.cpp & saveload.h: saving and loading mechanism of the game; allows the player to save their game and start again where they left off
+main.cpp: contains the driver code
+Makefile: creates object files (.o) and links them together to allow the game to be executed/played
+
+Compilation and Execution Instructions:
+Option 1:
+Individual .h, .cpp files and the Makefile will be provided. Option 1 is if you want to compile, and create the object files on your own.
+Upload the project folder to the academy server
+Access the academy server
+Open the terminal in the project folder
+Run make AL
+Run ./AL
+The game will start
+Option 2:
+Option 2 is if you want to run the game, with no compilation required. The .h and .cpp files, along with the .o files, will be provided in the project folder. 
+Upload the project folder to the academy server
+Access the academy server
+Open the terminal in the project folder
+Run ./AL
+The game will start
+Final Notes to the Player:
+Since X2GO does not execute our program correctly sometimes, please restart the game and run the program in a new terminal tab if there is nothing being output on the screen. Thank you, and we hope you enjoy our game!
+
