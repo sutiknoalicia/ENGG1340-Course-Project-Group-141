@@ -1,0 +1,386 @@
+h3594613@academy11:~/ancientloopfinal$ ./AL
+GAME INSTRUCTIONS
+================================================
+1. Press W, A, S, or D to move up, left, down or right, respectively
+2. You can enter P or O to enter the Pause menu or Shop menu on every turn
+3. Move towards an enemy, boss or chest to interact with them
+4. For every game event, a prompt will be shown on the screen to help you input correctly. Please follow the prompts.
+
+What is your name? Alicia
+                                      ____                                         
+                                   .-"    `-.      ,                               
+                                 .'          '.   /j\                              
+                                /              \,/:/#\                /\           
+                               ;              ,//' '/#\              //#\          
+                               |             /' :   '/#\            /  /#\         
+                               :         ,  /' /'    '/#\__..--""""/    /#\__      
+                                \       /'\'-._:__    '/#\        ;      /#, """---..__
+                                 `-.   / ;#\']" ; """--./#J       ':____...!       
+                                    `-/   /#\  J  [;[;[;Y]         |      ;        
+     """"""---....             __.--"/    '/#\ ;   " "  |     ![_] |   #! |        
+                  ""--.. _.--""     /      ,/#\'-..____.;_,   |    |   '  |        
+                        "-.        :_....___,/#} "####" | '_.-",   | #['  |        
+                           '-._      |[;[;[;[;|         |.;'  /;\  |      |        
+                           ,   `-.   |        :     _   .;'    /;\ |   #" |        
+                           !      `._:      _  ;   ##' .;'      /;\|  _,  |          _..--
+                          .#\"""---..._    ';, |      .;{___     /;\  ]#' |__....--""
+               .--.      ;'/#\         \    ]! |       "| , """--./_J    /         
+              /  '%;    /  '/#\         \   !' :        |!# #! #! #|    :`.__      
+             i__..'%] _:_   ;##J -.--..__\.     :"#...._!   '  "  "|__  |    `--.._
+              |    | ___|    |       _  | .  .. . _     _    . ..  |    |_ .   .. _
+                    / _ \           (_)          | |   | |                      
+                   / /_\ \_ __   ___ _  ___ _ __ | |_  | |     ___   ___  _ __  
+           />______|  _  | '_ \ / __| |/ _ \ '_ \| __|_| |    / _ \ / _ \| '_ \ _________________
+  [########[]______| | | | | | | (__| |  __/ | | | |___| |___| (_) | (_) | |_) |________________/
+           \>      \_| |_/_| |_|\___|_|\___|_| |_|\__| \_____/\___/ \___/| .__/ 
+                                                                           | |    
+                                                                           |_|    
+
+
+
+Welcome to Ancient Loop!
+================================
+[1] New game
+[2] Load game
+[3] Quit
+Press 1, 2 or 3 to proceed: 1
+
+- - G - - 
+- - - - - 
+- - P - - 
+- - - E - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- - G - - 
+- - - - - 
+- P - - - 
+- - - E - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- - G - - 
+- - - - - 
+- - - E - 
+- P - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- - G - - 
+- - - - - 
+- - - E - 
+- - - - - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- - - G - 
+- - - - - 
+- - - E - 
+- - - - - 
+- - P - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- - - G - 
+- - - - - 
+- - - - E 
+- - P - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- - - G - 
+- - - - - 
+- - - - E 
+- - - P - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- - - G - 
+- - - - - 
+- - - - E 
+- - - - P 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- - - G - 
+- - - - - 
+- - - E - 
+- - E P - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    (  )
+Alicia: 25/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+Alicia dealt 12 damage!
+Slime dealt 3 damage!
+Alicia: 22/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+Alicia dealt 12 damage!
+
+Enemy defeated! Alicia earned 10 GOLD
+
+- - - - - 
+- - - G - 
+- - - E - 
+- - P - - 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- - - - - 
+- - - G - 
+- - - E - 
+- P - - - 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- - - - - 
+- - - G - 
+- P - E - 
+- - - - - 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- - - - - 
+- - - G - 
+P - - E - 
+- - - - - 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- - - - - 
+- - - G - 
+- - - E - 
+P - - - - 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- - - - - 
+- - - - G 
+- - - E - 
+- P - - - 
+- - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- - - - - 
+- - - - G 
+- - - E - 
+- - P - - 
+- - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- - - - - 
+- - - - G 
+- - - E - 
+- - E P - 
+- - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    (  )
+Alicia: 22/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+Alicia dealt 12 damage!
+Slime dealt 3 damage!
+Alicia: 19/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+Alicia dealt 12 damage!
+
+Enemy defeated! Alicia earned 10 GOLD
+
+- - - - - 
+- - - - G 
+- - E P - 
+- - - - - 
+- - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    (  )
+Alicia: 19/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+Alicia dealt 12 damage!
+Slime dealt 3 damage!
+Alicia: 16/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+Alicia dealt 12 damage!
+
+Enemy defeated! Alicia earned 10 GOLD
+
+- - - - - 
+- - - - G 
+- E P - - 
+- - - - - 
+- - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    (  )
+Alicia: 16/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+Alicia dealt 12 damage!
+Slime dealt 3 damage!
+Alicia: 13/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+Alicia dealt 12 damage!
+
+Enemy defeated! Alicia earned 10 GOLD
+
+- - - - G 
+- - - - - 
+- P - - - 
+- - - - - 
+E - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 15 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 15 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 15 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 15 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL WEAPON
+Description: Increases Player Atk by 20 points
+Price: 100
+ 
+[0] Exit
+Funds: 40
+Which item would you like to buy? 1
+
+Remaining funds:15 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 15 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 15 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 15 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 15 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL WEAPON
+Description: Increases Player Atk by 20 points
+Price: 100
+ 
+[0] Exit
+Funds: 15
+Which item would you like to buy? 2
+
+Insufficient funds!
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 0
+
+Please come again!
+
+
+- - - - G 
+- - - - - 
+- P - - - 
+- - - - - 
+E - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> WEAPON: 15
+Select item index: 1
+Invalid choice, please reinput: 0
+
+- - - - G 
+- - - - - 
+- P - - - 
+- - - - - 
+E - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): p
+GAME PAUSED
+Stats:
+HP: 13
+ATK: 30
+DEF: 15
+GOLD: 15
+================================
+[1] Back to game
+[2] Save
+[3] Save and exit
+Press 1, 2 or 3 to proceed: 3
+Saved successfully!
+h3594613@academy11:~/ancientloopfinal$ 
+
