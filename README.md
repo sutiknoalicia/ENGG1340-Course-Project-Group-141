@@ -136,5 +136,6 @@ Option 2 is if you want to run the game, with no compilation required. The .h an
 (5) The game will start
 
 ## Final Notes to the Player:
-Since X2GO does not execute our program correctly sometimes, please restart the game and run the program in a new terminal tab if there is nothing being output on the screen. Thank you, and we hope you enjoy our game!
-
+- Since X2GO does not execute our program correctly sometimes, please restart the game and run the program in a new terminal tab if there is nothing being output on the screen.
+- The game was designed to be played in full screen, in order to showcase the graphics and art as we intended. If possible, please play the game in full screen to get the full experience.
+Thank you, and we hope you enjoy our game! :D
