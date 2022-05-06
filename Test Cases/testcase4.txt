@@ -1,0 +1,3927 @@
+h3594673@academy11:~/ancientloop$ ./AL
+GAME INSTRUCTIONS
+================================================
+1. Press W, A, S, or D to move up, left, down or right, respectively
+2. You can enter P or O to enter the Pause menu or Shop menu on every turn
+3. Move towards an enemy, boss or chest to interact with them
+4. For every game event, a prompt will be shown on the screen to help you input correctly. Please follow the prompts.
+
+What is your name? tb
+                                      ____                                         
+                                   .-"    `-.      ,                               
+                                 .'          '.   /j\                              
+                                /              \,/:/#\                /\           
+                               ;              ,//' '/#\              //#\          
+                               |             /' :   '/#\            /  /#\         
+                               :         ,  /' /'    '/#\__..--""""/    /#\__      
+                                \       /'\'-._:__    '/#\        ;      /#, """---..__
+                                 `-.   / ;#\']" ; """--./#J       ':____...!       
+                                    `-/   /#\  J  [;[;[;Y]         |      ;        
+     """"""---....             __.--"/    '/#\ ;   " "  |     ![_] |   #! |        
+                  ""--.. _.--""     /      ,/#\'-..____.;_,   |    |   '  |        
+                        "-.        :_....___,/#} "####" | '_.-",   | #['  |        
+                           '-._      |[;[;[;[;|         |.;'  /;\  |      |        
+                           ,   `-.   |        :     _   .;'    /;\ |   #" |        
+                           !      `._:      _  ;   ##' .;'      /;\|  _,  |          _..--
+                          .#\"""---..._    ';, |      .;{___     /;\  ]#' |__....--""
+               .--.      ;'/#\         \    ]! |       "| , """--./_J    /         
+              /  '%;    /  '/#\         \   !' :        |!# #! #! #|    :`.__      
+             i__..'%] _:_   ;##J -.--..__\.     :"#...._!   '  "  "|__  |    `--.._
+              |    | ___|    |       _  | .  .. . _     _    . ..  |    |_ .   .. _
+                    / _ \           (_)          | |   | |                      
+                   / /_\ \_ __   ___ _  ___ _ __ | |_  | |     ___   ___  _ __  
+           />______|  _  | '_ \ / __| |/ _ \ '_ \| __|_| |    / _ \ / _ \| '_ \ _________________
+  [########[]______| | | | | | | (__| |  __/ | | | |___| |___| (_) | (_) | |_) |________________/
+           \>      \_| |_/_| |_|\___|_|\___|_| |_|\__| \_____/\___/ \___/| .__/ 
+                                                                           | |    
+                                                                           |_|    
+
+
+
+Welcome to Ancient Loop!
+================================
+[1] New game
+[2] Load game
+[3] Quit
+Press 1, 2 or 3 to proceed: 1
+
+E - G - - 
+- - - - - 
+- - P - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E - G - - 
+- - - - - 
+- P - - - 
+- - - - - 
+- - O - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- E G - - 
+- - - - - 
+P - - - - 
+- - - E - 
+- - O - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- E G - - 
+P - - - - 
+E - - - - 
+- - - E - 
+- - O - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+P E - G - 
+E - - - - 
+E - - - - 
+- - - E - 
+- - O - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    (  )
+tb: 25/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+Slime dealt 3 damage!
+tb: 22/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- P - G - 
+E - - - - 
+E - - - - 
+- - - E - 
+- - O - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- - - G - 
+E P - - - 
+E - - - - 
+- - - E E 
+- - O - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    (  )
+tb: 22/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+Slime dealt 3 damage!
+tb: 19/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- - - G - 
+P - - - - 
+E - - - - 
+- - - E E 
+- - O - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+(.V.)-|=>    (  )
+tb: 19/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+Slime dealt 3 damage!
+tb: 16/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- - - G - 
+- - - - - 
+P - - E - 
+- - E - E 
+- - O - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- - - - - 
+- - - G - 
+- - E E - 
+P - E - E 
+- - O - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- - - - - 
+- - - G - 
+- - E E - 
+- - E - E 
+P E O - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    (  )
+tb: 16/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+Slime dealt 3 damage!
+tb: 13/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- - - - - 
+- - - G - 
+- - E - E 
+- - E - E 
+E P O - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+POTION (13) added to inventory
+
+- - - - - 
+- - - G - 
+- - E - E 
+- - E - E 
+E E P - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    (  )
+tb: 13/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+Slime dealt 3 damage!
+tb: 10/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- - - - - 
+- - - G - 
+- - E - E 
+- - P - E 
+E E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- - - G - 
+- - - - - 
+- - E - E 
+E P - - E 
+E E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- - - G - 
+- - - - - 
+- P E - E 
+E - - - E 
+E E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- - - G - 
+- P - - - 
+- - E - E 
+E - - - E 
+E E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- - - G - 
+P - - - - 
+- - E - E 
+E - - - E 
+E - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 15 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 15 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 15 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 15 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 20 points
+Price: 100
+ 
+[0] Exit
+Funds: 50
+Which item would you like to buy? 0
+
+Please come again!
+
+
+- - - G - 
+P - - - - 
+- - E E - 
+E - - - E 
+E - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> POTION: 13
+Select item index: 0
+
+- - - G - 
+P - - - - 
+- - E E - 
+E - - - E 
+E - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- - - - - 
+- - - G - 
+P - E E - 
+E - - - E 
+E - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+(.V.)-|=>    (  )
+tb: 23/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+Slime dealt 3 damage!
+tb: 20/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- - - - - 
+- - - G - 
+- - E E - 
+P - - - E 
+E - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+(.V.)-|=>    (  )
+tb: 20/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+Slime dealt 3 damage!
+tb: 17/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- - - - - 
+- - - G - 
+E - E E - 
+- - - - E 
+P - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- - - E - 
+- - - G - 
+E - E E - 
+- - - - E 
+- P - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- - - E - 
+- - - G - 
+E - E - E 
+- - - - E 
+- - P E E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    (  )
+tb: 17/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+Slime dealt 3 damage!
+tb: 14/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- - - E - 
+- - - G - 
+E - E - E 
+- E - - E 
+- - - P E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    (  )
+tb: 14/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+Slime dealt 3 damage!
+tb: 11/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - - E - 
+- - - G - 
+E - E - E 
+- E - - E 
+- - - - P 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E - - E - 
+- - - G - 
+E - - E E 
+- E - - E 
+- - - P - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E - - E - 
+- - - G - 
+E - - E E 
+- E - - E 
+- - P - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E - - E - 
+- - - G - 
+E - - E E 
+- E P - E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E - - E - 
+- - - G - 
+E E P E E 
+- - - - E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    (  )
+tb: 11/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+Slime dealt 3 damage!
+tb: 8/25
+Slime: 8/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 12 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - - E - 
+- - - G - 
+E P - E E 
+- - - - E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E - - E - 
+- - - G - 
+E - - E E 
+- P - - E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E - E E - 
+- - - G - 
+E - - E E 
+- - - - E 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 15 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 15 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 15 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 15 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL WEAPON
+Description: Increases Player Atk by 20 points
+Price: 100
+ 
+[0] Exit
+Funds: 100
+Which item would you like to buy? 5
+
+Remaining funds:0 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 0
+
+Please come again!
+
+
+E - E E - 
+- - - G - 
+E - - E E 
+- - - - E 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> WEAPON: 20
+Select item index: 0
+
+E - E E - 
+- - - G - 
+E - - E E 
+- - - - E 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E - E E - 
+E - - G - 
+- - - E E 
+- - - - E 
+P - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E - E E - 
+E - E G - 
+- - - E E 
+P - - - E 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E - E E - 
+E - E G - 
+- - - E E 
+- P - - E 
+- - E E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E - E E - 
+E - E G - 
+- - - E E 
+- - P - E 
+- - E - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E E - 
+E - E G - 
+- - - E E 
+- - - - E 
+- E P - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E - E E - 
+E - E G - 
+- - - E E 
+- E - - E 
+- E - P E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E E - 
+E - E G - 
+- - - E E 
+- - E - E 
+- E - - P 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E - E E - 
+E - E G - 
+- - - E E 
+- - E - E 
+- E - P - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E - E E - 
+E - E G - 
+- - E E E 
+- - E - E 
+- E P - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E E - 
+E - E G - 
+- - E E E 
+- - P - E 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E - E E - 
+E - E G - 
+- - E E E 
+- P - - E 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E E - 
+E - E G - 
+- - E E E 
+- - - - E 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E - E E - 
+E - E G - 
+- - E E E 
+- P - - E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E - E E - 
+E - E G - 
+- - E E E 
+- - P - E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E - E E - 
+E - E - G 
+- - E E E 
+- - - P E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E E - 
+E - E - G 
+- - E E E 
+- - - - P 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E E - 
+E - E - G 
+- - E E P 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E E - 
+E - E - G 
+- - E P - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E - E E - 
+E - E - G 
+- - E - - 
+- - - P - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E - E E G 
+E E E - - 
+- - E - - 
+- - P - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E E G 
+E E E - - 
+- - P - - 
+- E - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E E G 
+E E P - - 
+- - - - - 
+- E - - - 
+- - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E - E E G 
+E E - - - 
+- - P - - 
+- E - E - 
+- - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E - E E G 
+E E - - - 
+- - - - - 
+- E P E - 
+- - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E E - 
+E E - - G 
+- - - - - 
+- P - E - 
+- - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E - E E - 
+E E - - G 
+- - - - - 
+- - P E - 
+- - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E E - 
+E E - - G 
+- - - - - 
+- - - P - 
+- - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E - E E - 
+E E - - G 
+- - - - - 
+- - P - - 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E - E E - 
+E E - - G 
+- - - - - 
+- - - - - 
+- - P E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E E - 
+E E - G - 
+- - - - - 
+- - - - - 
+- - - P - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E - E E - 
+E E - G - 
+- - - - - 
+- - - P - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E - E E - 
+E E - G - 
+- - - - - 
+- - P - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E - E E - 
+E E - G - 
+- - - - - 
+- P - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E - E - E 
+E E - G - 
+- P - - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - E - E 
+E P - - G 
+- - - - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E P E - E 
+E - - - G 
+- - - - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+P - E - E 
+E O - - G 
+- - - - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+(.V.)-|=>    (  )
+tb: 8/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- - E - E 
+P O - - G 
+- - - - - 
+- E - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+tb found 73 GOLD!
+
+- - E - E 
+- P - - G 
+- - - - - 
+- E - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+(.V.)-|=>    (  )
+Slime dealt 3 damage!
+tb: 5/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- - E - E 
+- - - - G 
+- P - - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 15 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 15 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 15 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 15 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL WEAPON
+Description: Increases Player Atk by 20 points
+Price: 100
+ 
+[0] Exit
+Funds: 233
+Which item would you like to buy? 2
+
+Remaining funds:208 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 15 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 15 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 15 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 15 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL WEAPON
+Description: Increases Player Atk by 20 points
+Price: 100
+ 
+[0] Exit
+Funds: 208
+Which item would you like to buy? 2
+
+Remaining funds:183 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 15 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 15 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 15 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 15 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL WEAPON
+Description: Increases Player Atk by 20 points
+Price: 100
+ 
+[0] Exit
+Funds: 183
+Which item would you like to buy? 2
+
+Remaining funds:158 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 15 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 15 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 15 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 15 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL WEAPON
+Description: Increases Player Atk by 20 points
+Price: 100
+ 
+[0] Exit
+Funds: 158
+Which item would you like to buy? 2
+
+Remaining funds:133 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 0
+
+Please come again!
+
+
+- - E - E 
+- - - - G 
+- P - - - 
+- E - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> POTION: 15
+1 -> POTION: 15
+2 -> POTION: 15
+3 -> POTION: 15
+Select item index: 0
+
+- - E - E 
+- - - G - 
+- P - - - 
+- E - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- - - - E 
+- P E G - 
+- - - - - 
+- E - - - 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- - - - E 
+- - E G - 
+- P - - - 
+E E - - - 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+(.V.)-|=>    (  )
+tb: 20/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- E - - E 
+- - E G - 
+- - - - - 
+E P - - - 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    (  )
+tb: 20/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E E - E - 
+- - E G - 
+- - - - - 
+P - - - - 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E E - E - 
+- - E - G 
+- - - - - 
+- - - - - 
+P E - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    (  )
+tb: 20/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E E - E - 
+- - E - G 
+- - - - - 
+- - - - - 
+- P - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E E - - E 
+- - E - G 
+- - - - - 
+- - - - - 
+- - P E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    (  )
+tb: 20/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E E - - E 
+- - E - G 
+- - - - - 
+- - - - - 
+- - - P - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 15 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 15 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 15 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 15 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL POTION
+Description: Increases Player HP by 20 points
+Price: 100
+ 
+[0] Exit
+Funds: 173
+Which item would you like to buy? 5
+
+Remaining funds:73 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 0
+
+Please come again!
+
+
+E E - - E 
+- - E - G 
+- - - - - 
+- - - - - 
+- - - P - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E E - - E 
+- - E G - 
+- - - - - 
+- - - - - 
+- E P - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E E - - E 
+- - E G - 
+- - - - E 
+- - P - - 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E E - - E 
+- - E G - 
+- - E - E 
+- P - - - 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+(.V.)-|=>    (  )
+tb: 20/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+Critical Hit!
+tb dealt 57 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- E - - E 
+E - E G - 
+- - E E E 
+- - - - - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- E - - E 
+E - E G - 
+- - E E E 
+- P - E - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- E - - E 
+E - E - G 
+- P E E E 
+- - - E E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    (  )
+tb: 20/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+- E - O E 
+E - E - G 
+- - P E E 
+- - - E E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- E - O E 
+E - E - G 
+- - O E E 
+- - P E E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+WEAPON (11) added to inventory
+
+- E - O E 
+E - E - G 
+- - P E E 
+- - - E E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    (  )
+tb: 20/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E E - O E 
+- - P - G 
+- - - E E 
+- - - E E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E E P O E 
+- - - - G 
+- - - E E 
+- - - E E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+tb found 50 GOLD!
+
+E E - P E 
+- - - - G 
+- - - E E 
+- - - E E 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E E P - E 
+- - - - G 
+- E - E E 
+- - - E E 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    (  )
+tb: 20/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E P - - E 
+- - - - G 
+- E - E E 
+- E - E E 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E - - - E 
+E P - - G 
+- E - E E 
+- E - E E 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+(.V.)-|=>    (  )
+tb: 20/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+Critical Hit!
+tb dealt 57 damage!
+
+Enemy defeated! tb earned 10 GOLD
+(.V.)-|=>    (  )
+Critical Hit!
+Slime dealt 4 damage!
+tb: 16/25
+Slime: 20/20
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 38 damage!
+
+Enemy defeated! tb earned 10 GOLD
+
+E - - - E 
+E - - - G 
+- P - E E 
+- - - E E 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E - - - E 
+E - - - G 
+- - - E E 
+- P - E E 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 15 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 15 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 15 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 15 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 20 points
+Price: 100
+ 
+[0] Exit
+Funds: 183
+Which item would you like to buy? 5
+
+Remaining funds:83 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 0
+
+Please come again!
+
+
+E E - - E 
+E - - - G 
+- - - E E 
+- P - E E 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> POTION: 15
+1 -> POTION: 15
+2 -> POTION: 15
+3 -> POTION: 20
+4 -> WEAPON: 11
+5 -> ARMOR: 20
+Select item index: 5
+
+E E - E - 
+E - - - G 
+- - - E E 
+- P - E E 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> POTION: 15
+1 -> POTION: 15
+2 -> POTION: 15
+3 -> POTION: 20
+4 -> WEAPON: 11
+Select item index: 0
+
+E E - E - 
+E - - - G 
+- - - E E 
+- P - E E 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E E - E - 
+E - - G - 
+- P - E E 
+- - - E E 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E E - E - 
+E P - G - 
+- - - E E 
+E - - E E 
+- - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): p
+GAME PAUSED
+Stats:
+HP: 25
+ATK: 35
+DEF: 35
+GOLD: 83
+================================
+[1] Back to game
+[2] Save
+[3] Save and exit
+Press 1, 2 or 3 to proceed: 2
+Saved successfully!
+
+E E - E - 
+E P - G - 
+- - - E E 
+E - - E E 
+E - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E E - E - 
+E - P G - 
+- - - E E 
+E - - E E 
+E - - E - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+     /__\__  //				   _......._
+    //_____\///			       .-'.'.'.'.'.'.`-.
+   _| /-_-\)|/			     .'.'.'.'.'.'.'.'.'.`.
+  (___\ _ //___\		   /.'.'               '.\
+  (  |\\_/// * \\		   |.'    _.--...--._     |
+   \_| \_((*   *))		   \    `._.-.....-._.'   /
+   (o/  _  \_*_/		 .-.'    `.   ((@))  .'   '.-.
+   //\__|__/\			( ^ \      `--.   .-'     / ^ )
+  // |  | |  |			 \  /         .   .       \  /
+ //  _\ | |___)			 /          .'     '.  .-    \
+//  (___|			( _.\    \ (_`-._.-'_)    /._\)
+				 `-' \   ' .--.          / `-'
+				     |  / /|_| `-._.'\   |
+				     |   |       |_| |   /-.._
+				 _..-\   `.--.______.'   |
+				      \       .....      |
+				       `.  .'      `.   /
+				         \           .'
+				           `-..___..-`
+tb: 25/25
+Giant: 40/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 20 damage!
+Giant dealt 2 damage!
+tb: 23/25
+Giant: 20/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 20 damage!
+
+Enemy defeated! tb earned 100 GOLD
+Congratulations! You cleared this board!
+Moving to next board...
+
+- - S - - 
+- E - - - 
+- - P - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- E S - - 
+- - - - - 
+- - - - - 
+- - P - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- E - S - 
+- - - - - 
+- - - - - 
+- P - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- E - S - 
+- - - - - 
+- P - - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    XmX
+Skeleton dealt 4 damage!
+tb: 19/25
+Skeleton: 30/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 17 damage!
+Skeleton dealt 4 damage!
+tb: 15/25
+Skeleton: 13/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 17 damage!
+
+Enemy defeated! tb earned 20 GOLD
+
+- - - S - 
+- P - - - 
+- - - - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- - - S - 
+- - - - - 
+- P - - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- - - S - 
+- - - - - 
+- - P - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- - - - - 
+- - - S - 
+- - - - - 
+- - P - - 
+E - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- - - - - 
+- - - S E 
+- - - - - 
+- P - - - 
+E - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- - - - - 
+- E - S E 
+- - - - - 
+P - - - - 
+E - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+(.V.)-|=>    XmX
+tb: 15/25
+Skeleton: 30/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 17 damage!
+Skeleton dealt 4 damage!
+tb: 11/25
+Skeleton: 13/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 17 damage!
+
+Enemy defeated! tb earned 20 GOLD
+
+- - - - - 
+- E - S E 
+- - - - - 
+- - - - - 
+P - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- - - - - 
+- E - S E 
+- - - - - 
+- - - - - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- - - - - 
+- E - S E 
+- - - - - 
+- - - E - 
+- - P - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- - - - - 
+- E - S E 
+- - - - - 
+- - - - E 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 20 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 20 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 20 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 20 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL POTION
+Description: Increases Player HP by 30 points
+Price: 100
+ 
+[0] Exit
+Funds: 223
+Which item would you like to buy? 0
+
+Please come again!
+
+
+- - - - E 
+- E - S - 
+- - - - - 
+- - - - E 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- - - - E 
+- E - S - 
+- - - - - 
+- - - - E 
+P - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- - - - E 
+- E - S - 
+- - - - - 
+P - - - E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- E - - E 
+- - - S - 
+- - - - - 
+- P - - E 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- E - S E 
+- - - - - 
+- - - - - 
+- - - - E 
+E P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- E - S E 
+- - - - - 
+- E - - - 
+- P - - E 
+E - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- E - S E 
+- E - - - 
+- E - - - 
+- - P - E 
+E - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- E - S E 
+- E - - - 
+- E - - - 
+- - - - E 
+E - P - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 20 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 20 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 20 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 20 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 30 points
+Price: 100
+ 
+[0] Exit
+Funds: 223
+Which item would you like to buy? 5
+
+Remaining funds:123 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 0
+
+Please come again!
+
+
+- E - S E 
+- E - - - 
+- E - - - 
+- - O - E 
+E - P - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+ARMOR (25) added to inventory
+
+- E - S E 
+- E - - - 
+- E - - - 
+- - P - E 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- E - S E 
+- E - - - 
+- E - - - 
+- - - P E 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> POTION: 15
+1 -> POTION: 15
+2 -> POTION: 20
+3 -> WEAPON: 11
+4 -> ARMOR: 30
+5 -> ARMOR: 25
+Select item index: 4
+
+- E - S E 
+- E - - - 
+- E - - - 
+- - - P E 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- E - S E 
+- E - - - 
+- E - - - 
+- - - - E 
+- E - P - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+- E - S E 
+- E - - - 
+- E - - - 
+- - - - E 
+- E - - P 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    XmX
+tb: 11/25
+Skeleton: 30/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 17 damage!
+Skeleton dealt 3 damage!
+tb: 8/25
+Skeleton: 13/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 17 damage!
+
+Enemy defeated! tb earned 20 GOLD
+
+- E - - E 
+- E - S - 
+- E - - - 
+- - - - P 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> POTION: 15
+1 -> POTION: 15
+2 -> POTION: 20
+3 -> WEAPON: 11
+4 -> ARMOR: 25
+Select item index: 0
+
+- E - - - 
+- E - S E 
+- E - - - 
+- - - - P 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- E - - - 
+- E - S E 
+- E - - - 
+- - - P - 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- E - - - 
+- E - S E 
+- E - - - 
+- - P - - 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- - E - - 
+- E - S E 
+- E - - - 
+- - - - - 
+- E P - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    XmX
+tb: 23/25
+Skeleton: 30/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 17 damage!
+Skeleton dealt 3 damage!
+tb: 20/25
+Skeleton: 13/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 17 damage!
+
+Enemy defeated! tb earned 20 GOLD
+
+- - E - - 
+- E - S E 
+- E - - - 
+- - - - - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- - E - - 
+- E - S E 
+- E - - - 
+- - - - - 
+P - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- - E - E 
+- E - S - 
+- E - - - 
+P - - - - 
+- - O - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+- - E - E 
+- E - S - 
+P E - - - 
+- - - - - 
+- - O O - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- - E - E 
+- E - S - 
+- E - - E 
+P - - - - 
+- - O O - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- E - E E 
+- E - - S 
+- E - - E 
+- - - - - 
+P - O O - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E E - E E 
+- E - - S 
+- E - - E 
+- - - - - 
+- P O O - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+tb found 69 GOLD!
+
+E E - E E 
+- E - - S 
+- E - - E 
+- - - - - 
+- - P O - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+tb found 69 GOLD!
+
+E E - E E 
+- E - - S 
+- E - - E 
+- - - - - 
+- - - P - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 20 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 20 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 20 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 20 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 30 points
+Price: 100
+ 
+[0] Exit
+Funds: 301
+Which item would you like to buy? 3
+
+Remaining funds:276 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 20 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 20 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 20 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 20 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 30 points
+Price: 100
+ 
+[0] Exit
+Funds: 276
+Which item would you like to buy? 2
+
+Remaining funds:251 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 20 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 20 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 20 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 20 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 30 points
+Price: 100
+ 
+[0] Exit
+Funds: 251
+Which item would you like to buy? 2
+
+Remaining funds:226 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 20 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 20 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 20 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 20 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 30 points
+Price: 100
+ 
+[0] Exit
+Funds: 226
+Which item would you like to buy? 2
+
+Remaining funds:201 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 20 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 20 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 20 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 20 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 30 points
+Price: 100
+ 
+[0] Exit
+Funds: 201
+Which item would you like to buy? 2
+
+Remaining funds:176 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 0
+
+Please come again!
+
+
+E E - E E 
+- E - - S 
+E E - - E 
+- - - - - 
+- - - P - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> POTION: 15
+1 -> POTION: 20
+2 -> WEAPON: 11
+3 -> ARMOR: 25
+4 -> ARMOR: 20
+5 -> POTION: 20
+6 -> POTION: 20
+7 -> POTION: 20
+8 -> POTION: 20
+Select item index: 0
+
+E E E E E 
+- E - - S 
+E E - - E 
+- - - - - 
+- - - P - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E E E E E 
+- E - - S 
+E E - - E 
+- O - - - 
+- - P - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E E E E E 
+- E - - S 
+E E - - E 
+- O P - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+WEAPON (21) added to inventory
+
+E E E E E 
+- E - - S 
+E E - - E 
+- P - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E E E E E 
+- E - - S 
+E E - - E 
+- - - - - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 20 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 20 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 20 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 20 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL POTION
+Description: Increases Player HP by 30 points
+Price: 100
+ 
+[0] Exit
+Funds: 176
+Which item would you like to buy? 0
+
+Please come again!
+
+
+E E E E E 
+- E - - S 
+E E - - E 
+- - - - - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> POTION: 20
+1 -> WEAPON: 11
+2 -> ARMOR: 25
+3 -> ARMOR: 20
+4 -> POTION: 20
+5 -> POTION: 20
+6 -> POTION: 20
+7 -> POTION: 20
+8 -> WEAPON: 21
+Select item index: 8
+
+E E E E E 
+- E - - S 
+E E - - E 
+- - - - - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E E E E E 
+- E - - S 
+E E - - E 
+- P - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    XmX
+tb: 25/25
+Skeleton: 30/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+Skeleton dealt 3 damage!
+tb: 22/25
+Skeleton: 12/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+
+Enemy defeated! tb earned 20 GOLD
+
+E E E E E 
+- E - - S 
+E P - - E 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E E E E E 
+- E - - S 
+E - P - E 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+- E E E E 
+E E - - S 
+E P - - E 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    XmX
+tb: 22/25
+Skeleton: 30/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+Skeleton dealt 3 damage!
+tb: 19/25
+Skeleton: 12/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+
+Enemy defeated! tb earned 20 GOLD
+
+- E E E E 
+E E - - S 
+P - - - E 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    XmX
+tb: 19/25
+Skeleton: 30/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+Skeleton dealt 3 damage!
+tb: 16/25
+Skeleton: 12/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+
+Enemy defeated! tb earned 20 GOLD
+
+- E E E E 
+P E E - S 
+- - - - E 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    XmX
+tb: 16/25
+Skeleton: 30/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+Skeleton dealt 3 damage!
+tb: 13/25
+Skeleton: 12/30
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+
+Enemy defeated! tb earned 20 GOLD
+
+- E E E E 
+- P E - S 
+- - - - E 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- E E E E 
+- - E - S 
+- P - - E 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+- E E E E 
+- - E - S 
+- - - - E 
+- P - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E E E E E 
+- - E - S 
+- - - - E 
+- - - - - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 20 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 20 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 20 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 20 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 30 points
+Price: 100
+ 
+[0] Exit
+Funds: 256
+Which item would you like to buy? 0
+
+Please come again!
+
+
+E E E E E 
+E - E - S 
+- - - - E 
+- - - - - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> POTION: 20
+1 -> WEAPON: 11
+2 -> ARMOR: 25
+3 -> ARMOR: 20
+4 -> POTION: 20
+5 -> POTION: 20
+6 -> POTION: 20
+7 -> POTION: 20
+Select item index: 0
+
+E E E E E 
+E - E - S 
+- - - - E 
+- - - - - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E E E E E 
+E - E - S 
+- - - - E 
+- P - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E E E E E 
+E - E - S 
+- - - O E 
+- - P - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E E E E E 
+E - E - S 
+- - - O E 
+- - - P O 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+tb found 67 GOLD!
+
+E E E E E 
+E - E - S 
+- - - P E 
+- - - O O 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+WEAPON (21) added to inventory
+
+E E E E E 
+E - E S - 
+- - - E - 
+- - - P O 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+WEAPON (21) added to inventory
+
+E E E E E 
+E - E S - 
+- - - E - 
+- - - - P 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E E E E E 
+E - E S - 
+- - - E - 
+- - - P - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E E E E E 
+E - E S - 
+- - - - E 
+- - P - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 20 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 20 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 20 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 20 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 30 points
+Price: 100
+ 
+[0] Exit
+Funds: 323
+Which item would you like to buy? 0
+
+Please come again!
+
+
+E E E E E 
+E - E S - 
+- - - E - 
+- - P - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E E E E E 
+E - E S - 
+- - - E - 
+- - - P - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E E E E E 
+E - E S - 
+- - - E - 
+- - P - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E E E E E 
+E - E S - 
+- - - E O 
+- - - P - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d 
+
+E E E E E 
+E - E S - 
+- - - E O 
+- E - - P 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+WEAPON (21) added to inventory
+
+E E E E E 
+E - E S - 
+- - - E P 
+- E - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E E E E E 
+E - E S - 
+- - - E - 
+- E - - P 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 20 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 20 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 20 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 20 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL WEAPON
+Description: Increases Player Atk by 30 points
+Price: 100
+ 
+[0] Exit
+Funds: 323
+Which item would you like to buy? 5
+
+Remaining funds:223 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 0
+
+Please come again!
+
+
+E E E E E 
+E - E - S 
+- - - E - 
+- E - - P 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> WEAPON: 11
+1 -> ARMOR: 25
+2 -> ARMOR: 20
+3 -> POTION: 20
+4 -> POTION: 20
+5 -> POTION: 20
+6 -> POTION: 20
+7 -> WEAPON: 21
+8 -> WEAPON: 21
+9 -> WEAPON: 21
+10 -> WEAPON: 30
+Select item index: 10
+
+E E E E E 
+E - E - S 
+- - - E - 
+- E - - P 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E E E E E 
+E - E - S 
+- - - E P 
+- E - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): p
+GAME PAUSED
+Stats:
+HP: 25
+ATK: 45
+DEF: 45
+GOLD: 223
+================================
+[1] Back to game
+[2] Save
+[3] Save and exit
+Press 1, 2 or 3 to proceed: 2
+Saved successfully!
+
+E E E - E 
+E - E E S 
+- - - E P 
+- E - - - 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+    /__\__  //			    Y
+    //_____\///			  .-^-.
+   _| /-_-\)|/_			 /     \      .- ~ ~ -.
+  (___\ _ //___\		()     ()    /   _ _   `.                     _ _ _
+  (  |\\_/// * \\		 \_   _/    /  /     \   \                . ~  _ _  ~ .
+   \_| \_((*   *))		   | |     /  /       \   \             .' .~       ~-. `.
+   ( |__|_\\  *//		   | |    /  /         )   )           /  /             `.`.
+   (o/  _  \_*_/		   \ \_ _/  /         /   /           /  /                `'
+   //\__|__/\			    \_ _ _.'         /   /           (  (
+  // |  | |  |			                    /   /             \  \
+ //  _\ | |___)			                   /   /               \  \
+//  (___|				          /   /                 )  )
+					  	 (   (                 /  /
+				                  `.  `.             .'  /
+				                    `.   ~ - - - - ~   .'
+				                       ~ . _ _ _ _ . ~
+tb: 25/25
+Big Snake: 60/60
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 20 damage!
+Big Snake dealt 5 damage!
+tb: 20/25
+Big Snake: 40/60
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 20 damage!
+Big Snake used Constrict
+Big Snake dealt 8 damage!
+tb: 12/25
+Big Snake: 20/60
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 20 damage!
+
+Enemy defeated! tb earned 200 GOLD
+Congratulations! You cleared this board!
+Moving to next board...
+
+E - D - - 
+- - - - - 
+- - P - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): p
+GAME PAUSED
+Stats:
+HP: 12
+ATK: 45
+DEF: 45
+GOLD: 423
+================================
+[1] Back to game
+[2] Save
+[3] Save and exit
+Press 1, 2 or 3 to proceed: 2
+Saved successfully!
+
+E - D - - 
+- - - - - 
+- - P - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E - D - - 
+- E - - - 
+- - - P - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E - - - - 
+E E D - - 
+- - P - - 
+- - - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E - - - - 
+E E D - - 
+- - - - E 
+- - P - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> WEAPON: 11
+1 -> ARMOR: 25
+2 -> ARMOR: 20
+3 -> POTION: 20
+4 -> POTION: 20
+5 -> POTION: 20
+6 -> POTION: 20
+7 -> WEAPON: 21
+8 -> WEAPON: 21
+9 -> WEAPON: 21
+Select item index: 6
+
+E - - - - 
+E E D - - 
+- - - - E 
+- - P - - 
+- E - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+(.V.)-|=>    *\(*-*)
+Mage dealt 6 damage!
+tb: 19/25
+Mage: 40/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: s
+Invalid choice, please reinput: b
+
+tb dealt 18 damage!
+Mage dealt 6 damage!
+tb: 13/25
+Mage: 22/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+Mage dealt 6 damage!
+tb: 7/25
+Mage: 4/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+
+Enemy defeated! tb earned 30 GOLD
+
+E - - - - 
+E E D - - 
+- - - - E 
+- P - - - 
+- - - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 30 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 30 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 30 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 30 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 40 points
+Price: 100
+ 
+[0] Exit
+Funds: 453
+Which item would you like to buy? 5
+
+Remaining funds:353 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 30 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 30 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 30 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 30 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 40 points
+Price: 100
+ 
+[0] Exit
+Funds: 353
+Which item would you like to buy? 2
+
+Remaining funds:328 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 30 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 30 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 30 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 30 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 40 points
+Price: 100
+ 
+[0] Exit
+Funds: 328
+Which item would you like to buy? 2
+
+Remaining funds:303 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 30 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 30 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 30 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 30 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 40 points
+Price: 100
+ 
+[0] Exit
+Funds: 303
+Which item would you like to buy? 2
+
+Remaining funds:278 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 30 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 30 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 30 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 30 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 40 points
+Price: 100
+ 
+[0] Exit
+Funds: 278
+Which item would you like to buy? 2
+
+Remaining funds:253 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 1
+
+[1] Very Standard Weapon
+Description: Increases Player attack by 30 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 30 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 30 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 30 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL ARMOR
+Description: Increases Player Def by 40 points
+Price: 100
+ 
+[0] Exit
+Funds: 253
+Which item would you like to buy? 2
+
+Remaining funds:228 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 0
+
+Please come again!
+
+
+E E - - - 
+E - D - - 
+- - - - E 
+- P - - - 
+- - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E E D - - 
+E - - - - 
+- - - - E 
+- - - - - 
+- P - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> WEAPON: 11
+1 -> ARMOR: 25
+2 -> ARMOR: 20
+3 -> POTION: 20
+4 -> POTION: 20
+5 -> POTION: 20
+6 -> WEAPON: 21
+7 -> WEAPON: 21
+8 -> WEAPON: 21
+9 -> ARMOR: 40
+10 -> POTION: 30
+11 -> POTION: 30
+12 -> POTION: 30
+13 -> POTION: 30
+14 -> POTION: 30
+Select item index: 9
+
+E E D - - 
+E - - - - 
+- - - E E 
+- - - - - 
+- P - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> WEAPON: 11
+1 -> ARMOR: 25
+2 -> ARMOR: 20
+3 -> POTION: 20
+4 -> POTION: 20
+5 -> POTION: 20
+6 -> WEAPON: 21
+7 -> WEAPON: 21
+8 -> WEAPON: 21
+9 -> POTION: 30
+10 -> POTION: 30
+11 -> POTION: 30
+12 -> POTION: 30
+13 -> POTION: 30
+Select item index: 3
+
+E E D - - 
+E - - - - 
+- - - E E 
+- - - - - 
+- P - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E E D - - 
+E - - - - 
+E - - E E 
+- P - - - 
+- - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E E D - - 
+E - - - - 
+E P - E E 
+- - - - E 
+- - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E E - - - 
+E - D E - 
+E - P - E 
+- - - - E 
+- - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E E - - - 
+E - D E - 
+E - - P E 
+- - - - E 
+- - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+
+E E E - - 
+E - D E - 
+E - - - E 
+- - - P E 
+- - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    *\(*-*)
+tb: 25/25
+Mage: 40/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+Mage dealt 5 damage!
+tb: 20/25
+Mage: 22/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+Critical Hit!
+tb dealt 27 damage!
+
+Enemy defeated! tb earned 30 GOLD
+
+E E E E - 
+E - D - - 
+E - O - E 
+- - - - P 
+- - - - E 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): s
+(.V.)-|=>    *\(*-*)
+tb: 20/25
+Mage: 40/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+Mage dealt 5 damage!
+tb: 15/25
+Mage: 22/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+Mage dealt 5 damage!
+tb: 10/25
+Mage: 4/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 18 damage!
+
+Enemy defeated! tb earned 30 GOLD
+
+E E E E - 
+E - D - - 
+E - O - E 
+- - - E - 
+- - - - P 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E E E E - 
+E - - D - 
+E - O - E 
+- E - E - 
+- - - P - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E E E E - 
+E - - D - 
+E E O - E 
+- - - E - 
+- - P - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): a
+
+E E E E - 
+E - - D - 
+E E O - E 
+- - - E - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): o
+Welcome to Amazon Prime!
+ITEMS ON SALE
+================================
+[1] Very Standard Weapon
+Description: Increases Player attack by 30 points
+Price: 25
+ 
+[2] Very Standard Potion
+Description: Restores Player HP by 30 points
+Price: 25
+ 
+[3] Very Standard Armor
+Description: Increases Player defense by 30 points
+Price: 25
+ 
+[4] BOMB!
+Description: Deals 30 damage points to the enemy
+Price: 25
+ 
+[5] SPECIAL WEAPON
+Description: Increases Player Atk by 40 points
+Price: 100
+ 
+[0] Exit
+Funds: 288
+Which item would you like to buy? 5
+
+Remaining funds:188 Gold
+
+Is there anything else?
+Press 0 for 'No', 1 for 'Yes': 0
+
+Please come again!
+
+
+E E E E - 
+E - - D - 
+E E O - E 
+- - E E - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> WEAPON: 11
+1 -> ARMOR: 25
+2 -> ARMOR: 20
+3 -> POTION: 20
+4 -> POTION: 20
+5 -> WEAPON: 21
+6 -> WEAPON: 21
+7 -> WEAPON: 21
+8 -> POTION: 30
+9 -> POTION: 30
+10 -> POTION: 30
+11 -> POTION: 30
+12 -> POTION: 30
+13 -> WEAPON: 40
+Select item index: 13
+
+E E E E - 
+E - - D - 
+E E O E - 
+- - E E - 
+- P - - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> WEAPON: 11
+1 -> ARMOR: 25
+2 -> ARMOR: 20
+3 -> POTION: 20
+4 -> POTION: 20
+5 -> WEAPON: 21
+6 -> WEAPON: 21
+7 -> WEAPON: 21
+8 -> POTION: 30
+9 -> POTION: 30
+10 -> POTION: 30
+11 -> POTION: 30
+12 -> POTION: 30
+Select item index: 3
+
+E E E E - 
+E - - - D 
+E E O E - 
+- - E E - 
+- P E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+(.V.)-|=>    *\(*-*)
+tb: 25/25
+Mage: 40/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: vb
+Invalid choice, please reinput: 
+tb dealt 27 damage!
+Mage dealt 5 damage!
+tb: 20/25
+Mage: 13/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 27 damage!
+
+Enemy defeated! tb earned 30 GOLD
+
+E E E E - 
+E - - - D 
+E E O E - 
+- - E E - 
+- - P - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+(.V.)-|=>    *\(*-*)
+tb: 20/25
+Mage: 40/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 27 damage!
+Mage dealt 5 damage!
+tb: 15/25
+Mage: 13/40
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 27 damage!
+
+Enemy defeated! tb earned 30 GOLD
+
+E E E E - 
+E - - - D 
+E E O E - 
+- - P E - 
+- - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+tb found 98 GOLD!
+
+E E E E - 
+E - - - D 
+E E P E - 
+- - - E - 
+E - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): w
+
+E E E E - 
+E - P - D 
+E E - E - 
+- E - E - 
+E - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): i
+INVENTORY
+================================
+0 -> WEAPON: 11
+1 -> ARMOR: 25
+2 -> ARMOR: 20
+3 -> POTION: 20
+4 -> WEAPON: 21
+5 -> WEAPON: 21
+6 -> WEAPON: 21
+7 -> POTION: 30
+8 -> POTION: 30
+9 -> POTION: 30
+10 -> POTION: 30
+11 -> POTION: 30
+Select item index: 3
+
+E E E E - 
+E - P D - 
+E E - E - 
+- E O E - 
+E - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): p
+GAME PAUSED
+Stats:
+HP: 25
+ATK: 55
+DEF: 55
+GOLD: 346
+================================
+[1] Back to game
+[2] Save
+[3] Save and exit
+Press 1, 2 or 3 to proceed: 2
+Saved successfully!
+
+E E E E - 
+E - P - D 
+E E - E - 
+- E O E - 
+E - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+
+E E E E - 
+E - - P D 
+E E - E - 
+- E O E E 
+E - E - - 
+Move where? (W/A/S/D to move, P to pause, I to use item, O to buy from the shop): d
+    /__\__  //			<>=======()
+    //_____\///			(/\___   /|\\          ()==========<>_
+   _| /-_-\)|/_			      \_/ | \\        //|\   ______/ \)
+  (___\ _ //___\			        \_|  \\      // | \_/
+  (  |\\_/// * \\			          \|\/|\_   //  /\/
+   \_| \_((*   *))			           (oo)\ \_//  /
+   ( |__|_\\  *//			          //_/\_\/ /  |
+   (o/  _  \_*_/			         @@/  |=\  \  |
+   //\__|__/\			              	      \_=\_ \ |
+  // |  | |  |			                        \==\ \|\_
+ //  _\ | |___)			             	      __(\===\(  )\
+//  (___|				             (((~) __(_/   |
+			                 		 (((~) \  /
+				                         ______/ /
+					                 '------'
+tb: 25/25
+Dragon: 80/80
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 21 damage!
+Dragon used Flamethrower
+Dragon dealt 13 damage!
+tb: 12/25
+Dragon: 59/80
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: i
+
+0 -> WEAPON: 11
+1 -> ARMOR: 25
+2 -> ARMOR: 20
+3 -> WEAPON: 21
+4 -> WEAPON: 21
+5 -> WEAPON: 21
+6 -> POTION: 30
+7 -> POTION: 30
+8 -> POTION: 30
+9 -> POTION: 30
+10 -> POTION: 30
+Use which item? (input the index): 6
+Player healed
+Dragon used Flamethrower
+Dragon dealt 13 damage!
+tb: 12/25
+Dragon: 59/80
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: i
+
+0 -> WEAPON: 11
+1 -> ARMOR: 25
+2 -> ARMOR: 20
+3 -> WEAPON: 21
+4 -> WEAPON: 21
+5 -> WEAPON: 21
+6 -> POTION: 30
+7 -> POTION: 30
+8 -> POTION: 30
+9 -> POTION: 30
+Use which item? (input the index): 6
+Player healed
+Critical Hit!
+Dragon dealt 10 damage!
+tb: 15/25
+Dragon: 59/80
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 21 damage!
+Dragon used Flamethrower
+Dragon dealt 13 damage!
+tb: 2/25
+Dragon: 38/80
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: i
+
+0 -> WEAPON: 11
+1 -> ARMOR: 25
+2 -> ARMOR: 20
+3 -> WEAPON: 21
+4 -> WEAPON: 21
+5 -> WEAPON: 21
+6 -> POTION: 30
+7 -> POTION: 30
+8 -> POTION: 30
+Use which item? (input the index): 6
+Player healed
+Critical Hit!
+Dragon dealt 10 damage!
+tb: 15/25
+Dragon: 38/80
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 21 damage!
+Dragon used Flamethrower
+Dragon dealt 13 damage!
+tb: 2/25
+Dragon: 17/80
+
+BATTLE!
+What will you do?
+================================
+[B] Battle
+[I] Item
+Enter your choice: b
+
+tb dealt 21 damage!
+
+Enemy defeated! tb earned 300 GOLD
+                                            .
+                   . .                     -:-             .  .  .
+                 .'.:,'.        .  .  .     ' .           . \ | / .
+                 .'.;.`.       ._. ! ._.       \          .__\:/__.
+                  `,:.'         ._\!/_.                     .';`.      . ' .
+                  ,'             . ! .        ,.,      ..======..       .:.
+                 ,                 .         ._!_.     ||::: : | .        ',
+          .====.,                  .           ;  .~.===: : : :|   ..===.
+          |.::'||      .=====.,    ..=======.~,   |"|: :|::::::|   ||:::|=====|
+       ___| :::|!__.,  |:::::|!_,   |: :: ::|"|l_l|"|:: |:;;:::|___!| ::|: : :|
+      |: :|::: |:: |!__|; :: |: |===::: :: :|"||_||"| : |: :: :|: : |:: |:::::|
+   _____                            _         _       _   _                   _   _ 
+  / ____|                          | |       | |     | | (_)                 | | | |
+ | |     ___  _ __   __ _ _ __ __ _| |_ _   _| | __ _| |_ _  ___  _ __  ___  | | | |
+ | |    / _ \| '_ \ / _` | '__/ _` | __| | | | |/ _` | __| |/ _ \| '_ \/ __| | | | |
+ | |___| (_) | | | | (_| | | | (_| | |_| |_| | | (_| | |_| | (_) | | | \__ \ |_| |_|
+  \_____\___/|_| |_|\__, |_|  \__,_|\__|\__,_|_|\__,_|\__|_|\___/|_| |_|___/ (_) (_)
+                     __/ |                                                          
+                    |___/                                                           
+                    __     __          __          __           _ 
+                    \ \   / /          \ \        / /          | |
+                     \ \_/ /__  _   _   \ \  /\  / /__  _ __   | |
+                      \   / _ \| | | |   \ \/  \/ / _ \| '_ \  | |
+                       | | (_) | |_| |    \  /\  / (_) | | | | |_|
+                       |_|\___/ \__,_|     \/  \/ \___/|_| |_| (_)
+
+      |:::| _::|: :|:::|:===:|::|:::|:===F=:|"!/|\!"|::F|:====:|::_:|: :|::__:|
+      !_[]![_]_!_[]![]_!_[__]![]![_]![_][I_]!//_:_\\![]I![_][_]!_[_]![]_!_[__]!
+      -----------------------------------"---''''```---"-----------------------
+      _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |= _ _:_ _ =| _ _ _ _ _ _ _ _ _ _ _ _
